@@ -1,8 +1,8 @@
-# 🍔 Burger Town Analytics Dashboard
+# Burger Town Analytics Dashboard
 
 A full-stack business analytics dashboard built to transform a 300,000-row restaurant transaction dataset into an interactive, fast, and deployable analytics application.
 
-## 🚀 Live Application
+## Live Application
 
 **Dashboard:** https://burger-town-dashboard.vercel.app/
 
@@ -12,7 +12,7 @@ A full-stack business analytics dashboard built to transform a 300,000-row resta
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 The source dataset contains approximately 300,000 line-item transaction records. A single order can contain multiple rows, identified by `BillNo`.
 
@@ -29,7 +29,7 @@ It also provides CSV export for filtered data.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ### KPI Summary
 
@@ -65,7 +65,7 @@ Filtered dashboard data can be exported as CSV for further analysis.
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```text
                     Raw Excel Dataset
